@@ -1,5 +1,5 @@
 # introduction_to_ai #src_code
-Topic: Sentiment Analysis using Natural Language Processing
+Topic: Predicting Stock Markets using Natural Language Processing
 
 Members: 
 
